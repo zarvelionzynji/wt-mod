@@ -12,4 +12,4 @@ https://live.warthunder.com/post/1094391/en/
 ## Localization
 
 ### Units Full Name
-https://github.com/jaek898/wt-localization
+Name Mod by trashcan82 (https://discord.gg/nyddCAFs2)
